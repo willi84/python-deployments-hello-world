@@ -77,7 +77,7 @@ async def home():
       "stationName": "Hauptbahnhof",
       "estimatedArrival": "12:05",
       "checkedPassengers": {
-        "normal": 10,
+        "normal": 40,
         "wheelchair": 1,
         "elderly": 2
       }
@@ -86,7 +86,7 @@ async def home():
       "stationName": "Jungfernstieg",
       "estimatedArrival": "12:12",
       "checkedPassengers": {
-        "normal": 8,
+        "normal": 28,
         "wheelchair": 0,
         "elderly": 1
       }
@@ -95,7 +95,7 @@ async def home():
       "stationName": "Sternschanze",
       "estimatedArrival": "12:20",
       "checkedPassengers": {
-        "normal": 15,
+        "normal": 75,
         "wheelchair": 2,
         "elderly": 3
       }
@@ -104,7 +104,7 @@ async def home():
       "stationName": "Holstenstraße",
       "estimatedArrival": "12:27",
       "checkedPassengers": {
-        "normal": 7,
+        "normal": 65,
         "wheelchair": 0,
         "elderly": 4
       }
