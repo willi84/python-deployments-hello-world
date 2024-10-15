@@ -65,7 +65,7 @@ async def update_item(item_id: int, item: ItemUpdate, db: Session = Depends(mock
     return JSONResponse(content={"message": "Item updated successfully", "item": {"id": db_item.id, "name": db_item.name, "description": db_item.description}})
 
 
-@app.get("/")
+@app.get("/home")
 async def home():
     return JSONResponse({
   "busLine": "Bus 5",
