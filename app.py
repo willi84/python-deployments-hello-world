@@ -113,7 +113,7 @@ async def home():
       "stationName": "Altona",
       "estimatedArrival": "12:35",
       "checkedPassengers": {
-        "normal": 5,
+        "normal": 6,
         "wheelchair": 1,
         "elderly": 2
       }
