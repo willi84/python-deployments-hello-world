@@ -77,7 +77,7 @@ async def home():
       "stationName": "Hauptbahnhof",
       "estimatedArrival": "12:05",
       "checkedPassengers": {
-        "normal": 4,
+        "normal": 94,
         "wheelchair": 0,
         "elderly": 0
       }
